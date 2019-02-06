@@ -14,5 +14,20 @@ body{
 img{
 height: 250px;
 width: auto;
+}
+nav{
+  padding: 15px;
+  background: #D0D3D4;
+  text-align: center;
 
+}
+nav a{
+  text-decoration: none;
+  padding: inherit;
+  background-color: #2E4053 ;
+  color: white;
+}
+nav a:hover{
+  opacity: 0.5;
+  color: #F6DDCC;
 }
