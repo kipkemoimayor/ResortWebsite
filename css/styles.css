@@ -1,6 +1,6 @@
 h1{
-  padding: 30px;
-  font-family: sans-serif;
+  padding: 50px;
+  font-family: monospace;
   background-color: rgb(84, 153, 199);
   text-align: center;
   margin: auto;
@@ -8,8 +8,8 @@ h1{
   margin-top: -7px;
 }
 body{
-  background-color: rgb(46, 64, 83 );
-  color: white;
+  background-color: rgb(144, 148, 151);
+  color: #FAFCFD;
 }
 img{
 height: 250px;
@@ -17,9 +17,10 @@ width: auto;
 }
 nav{
   padding: 15px;
-  background: #D0D3D4;
-  text-align: center;
-
+  background:#1B2631;
+  text-align: right;
+  white-space: nowrap;
+  overflow: hidden;
 }
 nav a{
   text-decoration: none;
