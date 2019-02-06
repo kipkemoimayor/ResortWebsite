@@ -1,0 +1,17 @@
+h1{
+  padding: 30px;
+  font-family: sans-serif;
+  background-color: rgb(84, 153, 199);
+  text-align: center;
+  margin: auto;
+  color :white;
+  margin-top: -7px;
+}
+body{
+  background-color: rgb(46, 64, 83 );
+  color: white;
+}
+img{
+  align-items: center;
+  
+}
